@@ -1,0 +1,4 @@
+img = imread('Images\group.jpg');
+negativeImg = 255 - img;
+figure('Negative Image')
+imshow(Nehmg)
